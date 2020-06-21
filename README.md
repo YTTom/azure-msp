@@ -1,1 +1,1 @@
-# azure-msp
+<img src="https://aka.ms/deploytoazurebutton"/>
