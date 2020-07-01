@@ -9,7 +9,7 @@
       "value": "southeastasia"
     },
     "dnsPrefix": {
-      "value": "8.8.8.8"
+      "value": "chtaks-dns"
     },
     "osDiskSizeGB": {
       "value": 100
