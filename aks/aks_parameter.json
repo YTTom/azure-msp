@@ -1,0 +1,39 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "clusterName": {
+      "value": "aks101cluster"
+    },
+    "location": {
+      "value": "[resourceGroup().location]"
+    },
+    "dnsPrefix": {
+      "value": "8.8.8.8"
+    },
+    "osDiskSizeGB": {
+      "value": 100
+    },
+    "agentCount": {
+      "value": 1
+    },
+    "agentVMSize": {
+      "value": "Standard_DS2_v2"
+    },
+    "linuxAdminUsername": {
+      "value": "ubuntu"
+    },
+    "sshRSAPublicKey": {
+      "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDG6G1FKO0D+i11erMQhPSHY+go8pWXLSOhcopoHlKTTWlQu4IPe6WFtqAgRuWjJd0cbArpyv9spRWwtiC3mp7fuh1pmEj0vxvolVEpuG+a3NB8VSFNpldTRzQo4rqZTzES0JUErOHP2x7ne+aTTfTuq3DN6WC9B2A3KzwaXLq6Nb9lmmVp9lmi4ryQ+2vp5L4iF4bXESUgZbDWEsY2eaQE/Cspt3YSjstyfqYU2TC4ieajcPyQUuVcT/XcxZVPCcKyuwHniWth7bLwY70zHAa4nrHiVFDFl4EitiuMNCYpti4//tQkVTAyUUgZSFIdSXLKJHOHLKNTBzPX ubuntu@contc"
+    },
+    "servicePrincipalClientId": {
+      "value": "23588fdb-c1e3-4dff-8a2e-1c745e3d9509"
+    },
+    "servicePrincipalClientSecret": {
+      "value": "uV1P.rU3-pCi-06gjIp0iTuY-C9n-39pxQ"
+    },
+    "osType": {
+      "value": "Linux"
+    }
+  }
+}
