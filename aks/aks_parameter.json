@@ -6,7 +6,7 @@
       "value": "aks101cluster"
     },
     "location": {
-      "value": "[resourceGroup().location]"
+      "value": "southeastasia"
     },
     "dnsPrefix": {
       "value": "8.8.8.8"
