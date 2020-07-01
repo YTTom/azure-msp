@@ -12,7 +12,7 @@
       "value": "8.8.8.8"
     },
     "osDiskSizeGB": {
-      "value": null
+      "value": 100
     },
     "agentCount": {
       "value": 1
