@@ -27,10 +27,10 @@
       "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDG6G1FKO0D+i11erMQhPSHY+go8pWXLSOhcopoHlKTTWlQu4IPe6WFtqAgRuWjJd0cbArpyv9spRWwtiC3mp7fuh1pmEj0vxvolVEpuG+a3NB8VSFNpldTRzQo4rqZTzES0JUErOHP2x7ne+aTTfTuq3DN6WC9B2A3KzwaXLq6Nb9lmmVp9lmi4ryQ+2vp5L4iF4bXESUgZbDWEsY2eaQE/Cspt3YSjstyfqYU2TC4ieajcPyQUuVcT/XcxZVPCcKyuwHniWth7bLwY70zHAa4nrHiVFDFl4EitiuMNCYpti4//tQkVTAyUUgZSFIdSXpTfHzVF1IBbJTjIS4TBzPX ubuntu@control01-wra-nchctc"
     },
     "servicePrincipalClientId": {
-      "value": "23588fdb-c1e3-4dff-8a2e-1c745e3d9509"
+      "value": "9b19bc92-d906-4878-b8a1-33f01abfaee0"
     },
     "servicePrincipalClientSecret": {
-      "value": ".asa85Wa3-hRxz-tLn1xxcvU6kJ7ncS_s0"
+      "value": "L-R~a8komGel~M7~F35GeNpbUNmZ0-1-04"
     },
     "osType": {
       "value": "Linux"
